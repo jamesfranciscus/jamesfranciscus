@@ -36,7 +36,8 @@ ul {
 }
 
 #floated {
-   float: left;
-   width: 200px;
-   height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 350px;
 }
