@@ -48,3 +48,7 @@ ul {
   width: 150px;
   height: 200px;
 }
+
+#bio_float {
+   float: right;
+}
