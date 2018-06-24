@@ -36,7 +36,15 @@ ul {
 }
 
 #floated {
-   float: left;
-   width: 200px;
-   height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+}
+
+#floated1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 200px;
 }
