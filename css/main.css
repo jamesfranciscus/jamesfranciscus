@@ -1,5 +1,5 @@
 ﻿body {
-   text-align: center;
+   text-align: 
 }
 
 #jf1 {
@@ -9,46 +9,30 @@
    width: auto;
    height: auto;
    transform: rotate(90deg);
-   margin-left: auto;
-   margin-right: auto;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-right: 50px;
+   margin-left: 50px;
 }
 
 ul {
    list-style-type: none;
 }
 
-#badge {
+#container {
+   width: 900px;
+}
+
+#dv1 {
    display: block;
    max-width: 200px;
    max-height: 350px;
    width: auto;
    height: auto;
-   transform: rotate(90deg);
-   margin-left: auto;
-   margin-right: auto;
+   float: left;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-right: 50px;
+   margin-left: 50px;
 }
 
-#container {
-   width: 900px;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
-}
-
-#floated {
-  margin-left: auto;
-  margin-right: auto;
-  width: 150px;
-  height: 150px;
-}
-
-#floated1 {
-  margin-left: auto;
-  margin-right: auto;
-  width: 150px;
-  height: 200px;
-}
-
-#bio_float {
-   float: right;
-}
